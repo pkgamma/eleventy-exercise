@@ -1,7 +1,9 @@
 ---
 title: This is my fourth post.
 date: 2018-09-30
-tags: second-tag
+tags:
+  - nav
+  - hey-bro-cool
 layout: layouts/post.njk
 navtitle: HomeArti
 ---
